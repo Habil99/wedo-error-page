@@ -1,0 +1,62 @@
+._404-page {
+  margin: 40px 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  text-align: center;
+}
+
+._404-page-img {
+  margin-bottom: 56px;
+}
+
+._404-page-img img {
+  max-width: 450px;
+  width: 100%;
+}
+
+._404-page-title {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1;
+  color: #000;
+  margin-bottom: 16px;
+}
+
+._404-page-subtitle {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000;
+  margin-bottom: 56px;
+}
+
+._404-page-btn {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  background: #ffffff;
+  border: 0.5px solid #7a7b92;
+  border-radius: 12px;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 0px;
+  /* identical to box height, or 0% */
+
+  text-align: center;
+  letter-spacing: 0.02em;
+
+  /* text/active */
+
+  color: #11142d;
+  padding: 12px 40px;
+  text-decoration: none;
+}
+/*# sourceMappingURL=404.css.map */
